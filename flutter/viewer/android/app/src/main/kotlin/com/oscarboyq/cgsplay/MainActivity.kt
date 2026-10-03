@@ -1,0 +1,5 @@
+package com.oscarboyq.cgsplay
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
